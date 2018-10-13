@@ -70,7 +70,7 @@ public class FuncionarioEndpoint {
 	public ResponseEntity<?> cadastrarFuncionario(@RequestBody Funcionario funcionario) {
 		Funcionario funcionarioSalvo = funcionario;
 		return new ResponseEntity<Funcionario>(funcionarios.save(funcionario), HttpStatus.OK);
-	}
+	} 
 
 	//// Metodo Put
 
