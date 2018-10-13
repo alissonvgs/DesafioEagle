@@ -9,3 +9,4 @@ public interface ClienteRepositorio extends CrudRepository<Cliente, Integer> {
 	List<Cliente> findByName(String name);
 
 }
+ 
