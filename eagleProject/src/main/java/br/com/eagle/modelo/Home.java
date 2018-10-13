@@ -12,4 +12,4 @@ public class Home {
 		return "Eagle - Spring boot e RestAssured";
 	}
 
-}
+} 
