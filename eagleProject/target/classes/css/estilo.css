@@ -1,0 +1,17 @@
+.navbar{
+    background-color: black;
+}
+.inicio{
+    background-image: url(../images/aa.jpg);
+    background-position: top;
+
+}
+
+#conteudoInicio{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.conteudo{
+    height: 50%;
+}
