@@ -1,7 +1,7 @@
 # DesagioEagle
 Projeto para o desafio da Eagle, empresa jr. da UFPB Campus IV.
 
-Sobre: Uma APi para cadastrar Clientes e Funcionarios de uma determianda empresa.
+Sobre: Uma APi para cadastrar Clientes e Funcionarios de uma determinada empresa.
 
 Nota: Não consegui fazer uma lógica que funcionasse com o restful e ficou um projeto relativamento pequeno.
 
