@@ -79,4 +79,4 @@ public class FuncionarioTest {
 				.body("cargo", containsString("funcionario"));
 
 	}
-}
+} 
